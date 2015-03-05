@@ -1,4 +1,3 @@
-@@ -0,0 +1,95 @@
 #!/bin/bash
 # Script by Derek DeMoss
 # This will create DB drops, every $LASTBACKUP+1 days, and delete ones older than $OLDBACKUPAGE+1 days ago.
