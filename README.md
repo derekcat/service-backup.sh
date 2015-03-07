@@ -1,5 +1,6 @@
 # service-backup.sh
 Create incremental backups on a server, run via crontab
+
 The script could be made to use passed variables, but at the moment the scale is not such that it seems nessisary.
 The script is meant to be completely configurable via the variables at the top, which are heavily commented.
 
